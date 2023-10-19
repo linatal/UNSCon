@@ -1,0 +1,9 @@
+pandas
+matplotlib
+datasets==2.13.1
+evaluate==0.4.0
+scikit-learn==1.2.1
+torch==2.0.1
+tornado==6.1
+tqdm==4.64.1
+transformers==4.17.0
