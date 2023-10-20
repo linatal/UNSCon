@@ -9,7 +9,7 @@ Repository for the anonymous submission "How Diplomats Dispute: The UN Security 
 - run `LSD_sentiments_per_Sents.py` for sentiment classifications per sentence 
 
 #### For bert-classifications:
--  run `bert-cl/sequence_labeling.py -c *path_to_csv*`, Select the relevant model on lines 23-25. The script wil create a folder with fine-tuned models and prints the evaluation scores.
+-  run `bert-cl/sequence_labeling.py -c *path_to_csv*`. Select the relevant model on lines 23-25. The script wil create a folder with fine-tuned models and prints the evaluation scores.
 
 
 Anonymous repository for submitted paper. 
