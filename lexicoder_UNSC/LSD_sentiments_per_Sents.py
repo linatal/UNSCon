@@ -136,7 +136,7 @@ def main():
     output = "./data/lexicoder_output_sents.csv"
     #categorical_dataframe.to_csv(output, index=False)
 
-    y_true = categorical_dataframe['ALL_score_binary'].tolist() # nur das hier ändern
+    y_true = categorical_dataframe['ALL_score_binary'].tolist()
     y_true_ne = categorical_dataframe['NE_score_binary'].tolist()
     y_pred = categorical_dataframe['lexicoder_score_binary'].tolist()
 
