@@ -1,6 +1,6 @@
 # UNSCon: The UN Security Council Conflict Corpus
 
-Dataset, annotation guidelines and code for classification experiments for "How Diplomats Dispute: The UN Security Council Conflict Corpus".
+Dataset, annotation guidelines and code for classification experiments for "How Diplomats Dispute: The UN Security Council Conflict Corpus", by Karolina Zaczynska, Peter Bourgonje and Manfred Stede, to appear in the proceedings of LREC-COLING 2024.
 
 #### For Lexicoder sentiment analysis: 
 - download the the Lexicoder Sentiment Dictionary ("LSDaug2015") from the tool's website: https://www.snsoroka.com/data-lexicoder/
