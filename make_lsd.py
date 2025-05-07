@@ -1,7 +1,5 @@
-# Bachelorarbeit
-# Sara Derakhshani
-# Matrikelnummer: 792483
-# Abgabe: 01.07.2022 
+# Author: Sara Derakhshani
+
 
 from csv import writer
 from re import sub
