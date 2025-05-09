@@ -8,7 +8,7 @@ Annotated UNSCon corpus as csv-file with EDU-split speeches and conflict-labels:
 
 ### Classification Experiments
 #### For Lexicoder sentiment analysis: 
-- Download the the Lexicoder Sentiment Dictionary ("LSDaug2015") from the tool's website: https://www.snsoroka.com/data-lexicoder/
+- Download the Lexicoder Sentiment Dictionary ("LSDaug2015") from the tool's website: https://www.snsoroka.com/data-lexicoder/
 - Unzip folder to /lexicoder_UNSC/data/ (`unzip $PATH/LDSDaug2015.zip -d ./lexicoder_UNSC/data`)
 - Run `make_lsd.py` to prepare the lexicon for further processing (eventually update paths in config.ini)
 - Run `LSD_sentiments_per_Sents.py` for sentiment classifications per sentence 
